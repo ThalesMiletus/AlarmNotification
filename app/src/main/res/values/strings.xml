@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlarmNotification</string>
+    <string name="my_notification_channel_id">my_channel_id</string>
+    <string name="my_notification_channel_name">my_channel_name</string>
+    <string name="my_notification_channel_description">my_channel_description</string>
+    <string name="show_a_notification">Show a Notification</string>
+    <string name="content_text">Content Text</string>
+    <string name="snooze">snooze</string>
+    <string name="notification_title">Title</string>>
+</resources>
